@@ -1,8 +1,5 @@
 
-import './App.css';
-import Header from './components/common/header/Header';
-
-function App() {
+const App = () => {
   return (
     <div >
      <Header/>
